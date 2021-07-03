@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: aqua
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image section {
+    font-size: 50px;
+}
+
+.section style {
+    font-size: 50px;
+    color: aqua;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
